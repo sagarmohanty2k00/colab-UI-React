@@ -5,9 +5,9 @@ import Body from "./components/Body";
 function App() {
   return (
     <div className="App">
-      <h1>This is COLAB</h1>
-      <Sidebar />
-      <Body />
+      {/* <h1>This is COLAB</h1> */}
+      <Sidebar className="sidebar" />
+      <Body className="body"/>
     </div>
   );
 }
