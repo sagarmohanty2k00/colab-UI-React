@@ -1,9 +1,13 @@
 .sidebar{
-    background-color: rgb(39, 39, 233);
-    flex: 0.3;
+    /* background-color: rgb(39, 39, 233); */
+    background-color: rgba(0, 0, 0, 0.9);
+    /* background-color: rgba(2, 2, 255, 0.8); */
+    width: 200px;
     height: 100%;
     padding: 0 10px;
-    border: 1px solid rgba(0, 0, 0, 0.5);
+    border: 1px solid rgba(0, 0, 0, 0.9);
+    border-right: none;
+    margin-right: 0;
 }
 
 .sidebar_user{

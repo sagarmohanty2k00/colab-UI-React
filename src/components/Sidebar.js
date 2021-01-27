@@ -10,7 +10,7 @@ function Sidebar() {
             <div className="sidebar_user">
                 <div className="user">
                     <AccountCircleIcon className="user_icon" fontSize="large"
-                    style={{zoom: 2}}/>
+                    style={{zoom: 2.5}}/>
                     <h4>Sagar Mohanty</h4>
                 </div>
                 
@@ -47,6 +47,10 @@ function Sidebar() {
                 <div className="bar"></div>
                 <a href="" className="sidebar_listitem">
                     Chat
+                </a>
+                <div className="bar"></div>
+                <a href="" className="sidebar_listitem">
+                    Progress
                 </a>
                 <div className="bar"></div>
             </div>

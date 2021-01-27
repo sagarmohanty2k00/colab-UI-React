@@ -5,8 +5,7 @@ import Main from './Main'
 
 function Body() {
     return (
-        <div>
-            <h1>This is Body</h1>
+        <div className="body">
             <UpperNav />
             <Main />
         </div>

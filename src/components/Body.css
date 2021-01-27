@@ -1,0 +1,9 @@
+.body{
+    width: 90%;
+    margin-left: 0px;
+    height: 100%;
+    align-items: center;
+    text-align: center;
+    border: 1px solid rgba(0, 0, 0, 0.9);
+    border: none;
+}
