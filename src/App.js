@@ -4,10 +4,10 @@ import Body from "./components/Body";
 
 function App() {
   return (
-    <div className="App">
+    <div className="app">
       {/* <h1>This is COLAB</h1> */}
-      <Sidebar className="sidebar" />
-      <Body className="body"/>
+      <Sidebar />
+      <Body />
     </div>
   );
 }
