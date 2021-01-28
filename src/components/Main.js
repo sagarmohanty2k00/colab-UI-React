@@ -7,8 +7,7 @@ import Done from './Done'
 
 function Main() {
     return (
-        <div>
-            <h1>This is Main Area</h1>
+        <div className="main">
             <Todo />
             <Progres />
             <Review />

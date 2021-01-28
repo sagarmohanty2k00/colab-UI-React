@@ -52,6 +52,9 @@ function Sidebar() {
                 <a href="" className="sidebar_listitem">
                     Progress
                 </a>
+                <div className="bar"></div><a href="" className="sidebar_listitem">
+                    Meeting
+                </a>
                 <div className="bar"></div>
             </div>
         </div>

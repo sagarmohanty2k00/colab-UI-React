@@ -1,0 +1,14 @@
+.main{
+    height: calc(100% - 129px);
+    /* background-color: blue; */
+    /* border: 1px solid rgba(0, 0, 0, 0.9); */
+    display: flex;
+    width: calc(80% - 40px);
+    min-width: 740px;
+    margin: auto;
+    padding: auto;
+    /* background-color: darkslategray; */
+    justify-content: space-between;
+}
+
+

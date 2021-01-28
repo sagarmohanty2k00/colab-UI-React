@@ -1,9 +1,23 @@
 .body{
-    width: 90%;
+    max-width: 90%;
+    min-width: 85%;
     margin-left: 0px;
     height: 100%;
     align-items: center;
     text-align: center;
     border: 1px solid rgba(0, 0, 0, 0.9);
     border: none;
+}
+
+.main-header{
+    height: 80px;
+    border: none;
+    display: flex;
+    justify-content: space-between;
+}
+
+.project-name{
+    zoom: 2.5;
+    display: inline-block;
+    margin-left: 40px;
 }
